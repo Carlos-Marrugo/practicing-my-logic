@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Colecciones-List/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones-List/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/I-O/I-O.iml" filepath="$PROJECT_DIR$/I-O/I-O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Observer/SOLID-Observer.iml" filepath="$PROJECT_DIR$/SOLID-Observer/SOLID-Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-Singleton/SOLID-Singleton.iml" filepath="$PROJECT_DIR$/SOLID-Singleton/SOLID-Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend-logic-practice.iml" filepath="$PROJECT_DIR$/backend-logic-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecciones-map/colecciones-map.iml" filepath="$PROJECT_DIR$/colecciones-map/colecciones-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions-custom-ex/exceptions-custom-ex.iml" filepath="$PROJECT_DIR$/exceptions-custom-ex/exceptions-custom-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fechas/fechas.iml" filepath="$PROJECT_DIR$/fechas/fechas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multihilo-concurrencia/multihilo-concurrencia.iml" filepath="$PROJECT_DIR$/multihilo-concurrencia/multihilo-concurrencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multihilo-concurrencia-youtube/multihilo-concurrencia-youtube.iml" filepath="$PROJECT_DIR$/multihilo-concurrencia-youtube/multihilo-concurrencia-youtube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams/streams.iml" filepath="$PROJECT_DIR$/streams/streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/streams-map/streams-map.iml" filepath="$PROJECT_DIR$/streams-map/streams-map.iml" />
+    </modules>
+  </component>
+</project>
