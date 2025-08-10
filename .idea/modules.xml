@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/backend-logic-practice.iml" filepath="$PROJECT_DIR$/backend-logic-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/colecciones-list-genericos/colecciones-list-genericos.iml" filepath="$PROJECT_DIR$/colecciones-list-genericos/colecciones-list-genericos.iml" />
       <module fileurl="file://$PROJECT_DIR$/colecciones-map/colecciones-map.iml" filepath="$PROJECT_DIR$/colecciones-map/colecciones-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colecciones-map-products-selled/colecciones-map-products-selled.iml" filepath="$PROJECT_DIR$/colecciones-map-products-selled/colecciones-map-products-selled.iml" />
       <module fileurl="file://$PROJECT_DIR$/colecciones-set-usuarios-chat/colecciones-set-usuarios-chat.iml" filepath="$PROJECT_DIR$/colecciones-set-usuarios-chat/colecciones-set-usuarios-chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
