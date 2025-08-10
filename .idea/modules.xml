@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Colecciones-List/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones-List/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colecciones-list-genericos/Colecciones-list-genericos.iml" filepath="$PROJECT_DIR$/Colecciones-list-genericos/Colecciones-list-genericos.iml" />
       <module fileurl="file://$PROJECT_DIR$/I-O/I-O.iml" filepath="$PROJECT_DIR$/I-O/I-O.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID-Observer/SOLID-Observer.iml" filepath="$PROJECT_DIR$/SOLID-Observer/SOLID-Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID-Singleton/SOLID-Singleton.iml" filepath="$PROJECT_DIR$/SOLID-Singleton/SOLID-Singleton.iml" />
